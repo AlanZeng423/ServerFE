@@ -1,6 +1,5 @@
 import {createRouter, createWebHistory} from 'vue-router'
 import Index from '../views/IndexView.vue'
-import LoginView from '@/views/LoginView.vue';
 
 
 // Vue.use(VueRouter)
