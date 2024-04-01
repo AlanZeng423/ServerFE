@@ -1,4 +1,3 @@
-.DS_Store
 node_modules
 /dist
 
@@ -21,3 +20,22 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea/
+*.iml
+out
+gen
+
+# vscode project files
+.vscode
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Mac OS files
+.DS_Store
